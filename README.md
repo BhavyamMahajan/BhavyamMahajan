@@ -1,7 +1,6 @@
-# 💫About Me :
-  
 <h1 align="center">Hi 👋, I'm Bhavyam</h1>
 
+# 💫About Me :
 🔭 I’m currently working on **NextJs**
 
  🌱 I’m currently learning **NextJs**
